@@ -1,64 +1,49 @@
-## 🙋🏻‍♂️ About Me
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/geekysatyam/Satyam/blob/ceaccddf4198b206b103d0983495bd30526a9b9c/Satyam%20%20Linked%20in.png)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="center">Hello there, I'm Satyam 👋</h3>
-<h5 align="center">
-<br>
-<p align="center">
-  Hi, I'm Satyam , Computer Engineer & Data Analyst from India
-  <br>
-  <br>
-  🎓 I graduated from I. K. Gujral Punjab Technical University, Amritsar Computer Engineering Department
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  🔬 I’m currently working on Flask and Django
-  <br>
-  📚 I’m currently learning Machine Learning.
-  <br>
-  💬 Ask me about <a href="https://github.com/geekysatyam/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: satyam884751@gmail.com">satyam884751@gmail.com</a>
-</p>
-<hr>
+###
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-<p align="center">
-  <code><img title="C" height="25" src="https://github.com/WizCoderr/photos/blob/master/clang.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/WizCoderr/photos/blob/master/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/WizCoderr/photos/blob/master/python.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/WizCoderr/photos/blob/master/java.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/WizCoderr/photos/blob/master/html.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/WizCoderr/photos/blob/master/css.svg"></code>
-  <code><img title="Android Studio" height="25" src="https://github.com/WizCoderr/photos/blob/master/android.svg"></code>
-  <code><img title="Machine Learning" height="25" src="https://img.icons8.com/color/48/artificial-intelligence.png"></code>
-  <code><img title="Cloud Computing" height="25" src="https://img.icons8.com/fluency/48/cloud.png"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-</p>
-<hr>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geekysatyam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=geekysatyam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekysatyam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=geekysatyam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=geekysatyam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
 
-[![](https://visitcount.itsvg.in/api?id=geekysatyam&icon=3&color=4)](https://visitcount.itsvg.in)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/geekysatyam/geekysatyam/output/snake.svg" alt="Snake animation" />
 
-
-
-### 👋🏻 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/geek-satyam/)  
-- Connect me through [Portfolio](https://geeksatyam.netlify.app/)
+###
