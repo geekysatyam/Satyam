@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/geekysatyam/geekysatyam/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/geekysatyam/Satyam/blob/9cac8a9e4253c70c09ef9b87b211388296ce4d6f/snake.yml" alt="Snake animation" />
 
 ###
