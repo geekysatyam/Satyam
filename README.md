@@ -30,17 +30,13 @@
   <code><img title="C++" height="25" src="https://github.com/WizCoderr/photos/blob/master/cpp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/WizCoderr/photos/blob/master/python.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/WizCoderr/photos/blob/master/java.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="https://github.com/WizCoderr/photos/blob/master/html.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/WizCoderr/photos/blob/master/css.svg"></code>
   <code><img title="Android Studio" height="25" src="https://github.com/WizCoderr/photos/blob/master/android.svg"></code>
-  <code><img title="IoT - ESP32" height="25" src="https://img.icons8.com/color/48/000000/internet-of-things.png"></code>
-  <code><img title="MPU6050" height="25" src="https://img.icons8.com/fluency/48/accelerometer.png"></code>
   <code><img title="Machine Learning" height="25" src="https://img.icons8.com/color/48/artificial-intelligence.png"></code>
   <code><img title="Cloud Computing" height="25" src="https://img.icons8.com/fluency/48/cloud.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="Leadership & Coordination" height="25" src="https://img.icons8.com/color/48/management.png"></code>
 </p>
 <hr>
 
